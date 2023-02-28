@@ -1,3 +1,7 @@
 html {
   font-family: 'Varela Round', sans-serif !important;
 }
+
+body {
+  background-image: url('../img/journey.png');
+}

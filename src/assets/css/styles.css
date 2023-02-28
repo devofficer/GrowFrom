@@ -542,9 +542,6 @@ video {
 .grow {
   flex-grow: 1;
 }
-.bg-journey {
-  background-image: url('/src/assets/img/journey.png');
-}
 .bg-cover {
   background-size: cover;
 }
